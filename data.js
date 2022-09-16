@@ -1,0 +1,32 @@
+const array = [
+    {
+        name: 'The Subtle Art of Not Giving a F',
+        author: 'Mark Manson',
+        image: 'https://m.media-amazon.com/images/P/0062641549.01._SCLZZZZZZZ_SX500_.jpg',
+        page: 200,
+        price: 350
+    },
+    {
+        name: 'The Subtle Art of Not Giving a F',
+        author: 'Mark Manson',
+        image: 'https://m.media-amazon.com/images/P/0062641549.01._SCLZZZZZZZ_SX500_.jpg',
+        page: 200,
+        price: 350
+    },
+    {
+        name: 'The Subtle Art of Not Giving a F',
+        author: 'Mark Manson',
+        image: 'https://m.media-amazon.com/images/P/0062641549.01._SCLZZZZZZZ_SX500_.jpg',
+        page: 200,
+        price: 350
+    },
+    {
+        name: 'The Subtle Art of Not Giving a F',
+        author: 'Mark Manson',
+        image: 'https://m.media-amazon.com/images/P/0062641549.01._SCLZZZZZZZ_SX500_.jpg',
+        page: 200,
+        price: 350
+    }
+]
+
+//image, pages, price
