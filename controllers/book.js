@@ -56,7 +56,7 @@ export const getAllBooks = async (req, res) => {
    }
 }
 
-// products.name.toLowerCase().includes(searchTerm)
+
 
 //view book by search
 export const getSingleBook = async (req, res) => {
